@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 from ml_model import train_and_predict
 
 # ------------------ Page Config ------------------
